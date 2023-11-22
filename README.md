@@ -1,1 +1,2 @@
 # DIGITAL-CLOCK
+![Screenshot (9)](https://github.com/DARSHIL-LALORIYA/DIGITAL-CLOCK/assets/145353449/50f98baa-d6d6-46f4-ac87-098bf6d09050)
